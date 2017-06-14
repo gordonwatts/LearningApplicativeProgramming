@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "01 - MonadParser", "01 - MonadParser\01 - MonadParser.fsproj", "{2A3CF79D-FDA6-4747-9348-1FCD1EB211EF}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A3CF79D-FDA6-4747-9348-1FCD1EB211EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A3CF79D-FDA6-4747-9348-1FCD1EB211EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A3CF79D-FDA6-4747-9348-1FCD1EB211EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A3CF79D-FDA6-4747-9348-1FCD1EB211EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
